@@ -1,0 +1,151 @@
+Adnan, M., Pereira, F.C., Azevedo, C.M.L., Basak, K., Lovric, M., Raveau, S., Zhu, Y., Ferreira, J., Zegras, C., Ben-Akiva, M., 2016. Simmobility: A multi-scale integrated agent-based simulation platform. In: 95th Annual Meeting of the Transportation Research Board.
+Afrin, T., Yodo, N., 2020. A survey of road traffic congestion measures towards a sustainable and resilient transportation system. Sustainability 12 (11), 4660.
+Albawi, S., Mohammed, T.A., Al-Zawi, S., 2017. Understanding of a convolutional neural network. In: 2017 International Conference on Engineering and Technology. ICET, IEEE, pp. 1–6.
+Aljamal, M.A., Rakha, H.A., Du, J., El-Shawarby, I., 2018. Comparison of microscopic and mesoscopic traffic modeling tools for evacuation analysis. In: 2018 21st International Conference on Intelligent Transportation Systems. ITSC, IEEE, pp. 2321–2326.
+Allwein, E.L., Schapire, R.E., Singer, Y., 2000. Reducing multiclass to binary: A unifying approach for margin classifiers. J. Mach. Learn. Res. 1 (Dec), 113–141.
+Andreoletti, D., Troia, S., Musumeci, F., Giordano, S., Maier, G., Tornatore, M., 2019. Network traffic prediction based on diffusion convolutional recurrent neural networks. In: IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops. INFOCOM WKSHPS, IEEE, pp. 246–251.
+Axhausen, K., Horni, A., Nagel, K., 2016. The Multi-Agent Transport Simulation MATSim. Ubiquity Press.
+Balakrishna, R., Ben-Akiva, M., Bottom, J., Gao, S., 2013. Information impacts on traveler behavior and network performance: State of knowledge and future directions. Adv. Dyn. Netw. Model. Complex Transp. Syst. 193–224.
+Barth, M., Boriboonsomsin, K., 2009. Traffic congestion and greenhouse gases. Access Mag. 1 (35), 2–9.
+Behrisch, M., Bieker, L., Erdmann, J., Krajzewicz, D., 2011. SUMO–simulation of urban mobility: an overview. In: Proceedings of SIMUL 2011, the Third International Conference on Advances in System Simulation. ThinkMind.
+Ben-Akiva, M., Bierlaire, M., Koutsopoulos, H., Mishalani, R., 1998. DynaMIT: a simulation-based system for traffic prediction. In: DACCORD Short Term Forecasting Workshop. Citeseer, pp. 1–12.
+Ben-David, A., 2008. Comparison of classification accuracy using Cohen’s weighted kappa. Expert Syst. Appl. 34 (2), 825–832.
+Borysov, S.S., Rich, J., Pereira, F.C., 2019. How to generate micro-agents? A deep generative modeling approach to population synthesis. Transp. Res. C 106, 73–97.
+Casas, J., Ferrer, J.L., Garcia, D., Perarnau, J., Torday, A., 2010. Traffic simulation with aimsun. In: Fundamentals of Traffic Simulation. Springer, pp. 173–232. Cassidy, M.J., Bertini, R.L., 1999. Some traffic features at freeway bottlenecks. Transp. Res. B 33 (1), 25–42.
+Chakraborty, P., Adu-Gyamfi, Y.O., Poddar, S., Ahsani, V., Sharma, A., Sarkar, S., 2018. Traffic congestion detection from camera images using deep convolution neural networks. Transp. Res. Rec. 2672 (45), 222–231.
+Chen, X., Jones, H., Jayalath, A., 2007. Congestion-aware routing protocol for mobile ad hoc networks. In: 2007 IEEE 66th Vehicular Technology Conference, pp. 21–25.
+Cheng, X., Zhang, R., Zhou, J., Xu, W., 2018. Deeptransport: Learning spatial-temporal dependency for traffic condition forecasting. In: 2018 International Joint Conference on Neural Networks. IJCNN, IEEE, pp. 1–8.
+Chung, Y., 2011. Quantification of nonrecurrent congestion delay caused by freeway accidents and analysis of causal factors. Transp. Res. Rec. 2229 (1), 8–18. Chung, J., Gulcehre, C., Cho, K., Bengio, Y., 2014. Empirical evaluation of gated recurrent neural networks on sequence modeling. arXiv preprint arXiv:1412.3555. Connie, L., On, C.K., Patricia, A., 2018. A review of automatic license plate recognition system in mobile based platform. J. Telecommun. Electron. Comput. Eng. 10 (3–2), 77–82.
+Daganzo, C., Daganzo, C., 1997. Fundamentals of Transportation and Traffic Operations, Vol. 30. Pergamon Oxford.
+De Fabritiis, C., Ragona, R., Valenti, G., 2008. Traffic estimation and prediction based on real time floating car data. In: 2008 11th International IEEE Conference on Intelligent Transportation Systems. IEEE, pp. 197–203.
+de Palma, A., Lindsey, R., 2011. Traffic congestion pricing methodologies and technologies. Transp. Res. C 19 (6), 1377–1399. de Palma, A., Proost, S., Seshadri, R., Ben-Akiva, M., 2018. Congestion tolling-dollars versus tokens: A comparative analysis. Transp. Res. B 108, 261–280.
+Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., Fei-Fei, L., 2009. Imagenet: A large-scale hierarchical image database. In: 2009 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, pp. 248–255.
+Di, X., Xiao, Y., Zhu, C., Deng, Y., Zhao, Q., Rao, W., 2019. Traffic congestion prediction by spatiotemporal propagation patterns. In: 2019 20th IEEE International Conference on Mobile Data Management. MDM, IEEE, pp. 298–303.
+Ding, W., Jing, X., Yan, Z., Yang, L.T., 2019. A survey on data fusion in internet of things: Towards secure and privacy-preserving fusion. Inf. Fusion 51, 129–144.
+Dusparic, I., Monteil, J., Cahill, V., 2016. Towards autonomic urban traffic control with collaborative multi-policy reinforcement learning. In: 2016 IEEE 19th International Conference on Intelligent Transportation Systems, ITSC, pp. 2065–2070.
+Everingham, M., Van Gool, L., Williams, C.K., Winn, J., Zisserman, A., 2010. The pascal visual object classes (voc) challenge. Int. J. Comput. Vis. 88 (2), 303–338. Fan, Z., Liu, C., Cai, D., Yue, S., 2019. Research on black spot identification of safety in urban traffic accidents based on machine learning method. Saf. Sci. 118, 607–616.
+Fouladgar, M., Parchami, M., Elmasri, R., Ghaderi, A., 2017. Scalable deep traffic flow neural networks for urban traffic congestion prediction. In: 2017 International Joint Conference on Neural Networks, IJCNN, pp. 2251–2258.
+Fukuda, S., Uchida, H., Fujii, H., Yamada, T., 2020. Short-term prediction of traffic flow under incident conditions using graph convolutional recurrent neural network and traffic simulation. IET Intell. Transp. Syst.
+Gao, J., Li, P., Chen, Z., Zhang, J., 2020. A survey on deep learning for multimodal data fusion. Neural Comput. 32 (5), 829–864.
+Gartner, N.H., Messer, C.J., Rathi, A., 2002. Traffic flow theory-a state-of-the-art report: revised monograph on traffic flow theory. In: Transportation Research Board (TRB) Special Report. Turner-Fairbank Highway Research Center.
+Genders, W., Razavi, S., 2016. Using a deep reinforcement learning agent for traffic signal control. arXiv preprint arXiv:1611.01142.
+Genders, W., Razavi, S., 2019. Asynchronous n-step q-learning adaptive traffic signal control. J. Intell. Transp. Syst. 23 (4), 319–331.
+Gerlough, D.L., Huber, M.J., 1976. Traffic flow theory. In: Transportation Research Board (TRB) Special Report. Transportation Research Board.
+Geroliminis, N., Sun, J., 2011. Hysteresis phenomena of a macroscopic fundamental diagram in freeway networks. Procedia Soc. Behav. Sci. 17, 213–228.
+Girshick, R., Donahue, J., Darrell, T., Malik, J., 2014. Rich feature hierarchies for accurate object detection and semantic segmentation. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 580–587.
+Golledge, R.G., 1995. Path selection and route preference in human navigation: A progress report. In: International Conference on Spatial Information Theory. Springer, pp. 207–222.
+Goodfellow, I., Bengio, Y., Courville, A., 2016. Deep Learning. MIT Press.
+Google, 2020. How AI helps predict traffic and determine routes. Internet.
+Greff, K., Srivastava, R.K., Koutník, J., Steunebrink, B.R., Schmidhuber, J., 2016. LSTM: A search space odyssey. IEEE Trans. Neural Netw. Learn. Syst. 28 (10), 2222–2232.
+Gregurić, M., Kušić, K., Vrbanić, F., Ivanjko, E., 2020. Variable speed limit control based on deep reinforcement learning: A possible implementation. In: 2020 International Symposium ELMAR. pp. 67–72.
+Gupta, S., Srivatsav, D., Subramanyam, A., Kumaraguru, P., 2019. Attentional road safety networks. In: 2019 IEEE International Conference on Image Processing ICIP, pp. 1600–1604.
+Haberman, S.J., 2019. Measures of agreement versus measures of prediction accuracy. ETS Res. Rep. Ser. 2019 (1), 1–23.
+Hall, F.L., 1996. Traffic stream characteristics. In: Traffic Flow Theory, Vol. 36. US Federal Highway Administration.
+Hallenbeck, M.E., Ishimaru, J., Nee, J., et al., 2003. Measurement of recurring versus non-recurring congestion. Technical Report, Washington (State). Dept. of Transportation.
+He, K., Gkioxari, G., Dollár, P., Girshick, R., 2017. Mask r-cnn. In: Proceedings of the IEEE International Conference on Computer Vision, pp. 2961–2969.
+He, K., Zhang, X., Ren, S., Sun, J., 2016. Deep residual learning for image recognition. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 770–778.
+Hennessy, D.A., Wiesenthal, D.L., 1999. Traffic congestion, driver stress, and driver aggression. Aggress. Behav. Official J. Int. Soc. Res. Aggress. 25 (6), 409–423. Hochreiter, S., Schmidhuber, J., 1997. Long short-term memory. Neural Comput. 9 (8), 1735–1780.
+Huang, J., Agarwal, S., 2020. Physics informed deep learning for traffic state estimation. In: 2020 IEEE 23rd International Conference on Intelligent Transportation Systems. ITSC, IEEE, pp. 1–6.
+Huang, C., Zhang, C., Dai, P., Bo, L., 2019. Deep dynamic fusion network for traffic accident forecasting. In: Proceedings of the 28th ACM International Conference on Information and Knowledge Management, pp. 2673–2681.
+Immers, L., Logghe, S., 2002. Traffic Flow Theory, Vol. 40 (21). Faculty of Engineering, Department of Civil Engineering, Section Traffic and Infrastructure, Kasteelpark Arenberg.
+Impedovo, D., Balducci, F., Dentamaro, V., Pirlo, G., 2019. Vehicular traffic congestion classification by visual features and deep learning approaches: a comparison. Sensors 19 (23), 5213.
+Janson, B.N., 1991. Dynamic traffic assignment for urban road networks. Transp. Res. B 25 (2–3), 143–161.
+Jiang, H., Sun, D., Jampani, V., Yang, M.-H., Learned-Miller, E., Kautz, J., 2018. Super slomo: High quality estimation of multiple intermediate frames for video interpolation. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 9000–9008.
+Jozefowicz, R., Zaremba, W., Sutskever, I., 2015. An empirical exploration of recurrent network architectures. In: International Conference on Machine Learning. PMLR, pp. 2342–2350.
+Khan, S.D., Ullah, H., 2019. A survey of advances in vision-based vehicle re-identification. Comput. Vis. Image Underst. 182, 50–63.
+Kleinrock, L., 2018. Internet congestion control using the power metric: Keep the pipe just full, but no fuller. Ad Hoc Netw. 80, 142–157.
+Krizhevsky, A., Sutskever, I., Hinton, G.E., 2012. Imagenet classification with deep convolutional neural networks. In: Advances in Neural Information Processing Systems. pp. 1097–1105.
+Kurniawan, J., Syahra, S.G., Dewa, C.K., Afiahayati, 2018. Traffic congestion detection: Learning from CCTV monitoring images using convolutional neural network. Procedia Comput. Sci. 144, 291–297, INNS Conference on Big Data and Deep Learning.
+Kyaw, N.N., Sinha, G., Mon, K.L., 2018. License plate recognition of myanmar vehicle number plates a critical review. In: 2018 IEEE 7th Global Conference on Consumer Electronics. GCCE, IEEE, pp. 771–774.
+LeCun, Y., Touresky, D., Hinton, G., Sejnowski, T., 1988. A theoretical framework for back-propagation. In: Proceedings of the 1988 Connectionist Models Summer School, vol. 1, pp. 21–28.
+LeNail, A., 2019. Nn-svg: Publication-ready neural network architecture schematics. J. Open Source Softw. 4 (33), 747.
+Li, Y., Guo, Y., Lu, J., Peeta, S., 2019. Impacts of congestion pricing and reward strategies on automobile travelers’ morning commute mode shift decisions. Transp. Res. A 125, 72–88.
+Li, G., Lai, W., Sui, X., Li, X., Qu, X., Zhang, T., Li, Y., 2020a. Influence of traffic congestion on driver behavior in post-congestion driving. Accid. Anal. Prev. 141, 105508.
+Li, L., Sheng, X., Du, B., Wang, Y., Ran, B., 2020b. A deep fusion model based on restricted Boltzmann machines for traffic accident duration prediction. Eng. Appl. Artif. Intell. 93, 103686.
+Li, Y., Yu, R., Shahabi, C., Liu, Y., 2017a. Diffusion convolutional recurrent neural network: Data-driven traffic forecasting. arXiv preprint arXiv:1707.01926.
+Lin, Y., Li, R., 2020. Real-time traffic accidents post-impact prediction: Based on crowdsourcing data. Accid. Anal. Prev. 145, 105696.
+Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollár, P., Zitnick, C.L., 2014. Microsoft coco: Common objects in context. In: European Conference on Computer Vision. Springer, pp. 740–755.
+Litman, T., 2016. Smart congestion relief: Comprehensive analysis of traffic congestion costs and congestion reduction benefits.
+Liu, J., Barreau, M., Cicic, M., Johansson, K.H., 2020. Learning-based traffic state reconstruction using probe vehicles. arXiv preprint arXiv:2011.05031.
+Liu, Y., Zheng, H., Feng, X., Chen, Z., 2017. Short-term traffic flow prediction with conv-LSTM. In: 2017 9th International Conference on Wireless Communications and Signal Processing. WCSP, IEEE, pp. 1–6.
+Ma, X., Yu, H., Wang, Y., Wang, Y., 2015. Large-scale transportation network congestion evolution prediction using deep learning theory. PLoS One 10 (3), e0119044.
+Mahmassani, H.S., Sbayti, H., Zhou, X., 2004. DYNASMART-P Version 1.0 User’s Guide, Vol. 137. Maryland Transportation Initiative, College Park, Maryland.
+Manifest, 2018. The popularity of google maps: Trends in navigation apps in 2018. Internet.
+Mao, Q., Hu, F., Hao, Q., 2018. Deep learning for intelligent wireless networks: A comprehensive survey. IEEE Commun. Surv. Tutor. 20 (4), 2595–2621.
+McGroarty, J., 2010. Recurring and Non-Recurring Congestion: causes, Impacts, and Solutions. University of Cincinnati, Neihoff Urban Studio–W10.
+Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.A., Veness, J., Bellemare, M.G., Graves, A., Riedmiller, M., Fidjeland, A.K., Ostrovski, G., et al., 2015. Human-level control through deep reinforcement learning. Nature 518 (7540), 529–533.
+Mo, Z., Di, X., Shi, R., 2020. A physics-informed deep learning paradigm for car-following models. arXiv preprint arXiv:2012.13376.
+Mohamed, I.S., 2017. Detection and Tracking of Pallets Using a Laser Rangefinder and Machine Learning Techniques (Ph.D. thesis). European Master on Advanced Robotics+(EMARO+), University of Genova, Italy.
+Moosavi, S., Samavatian, M.H., Parthasarathy, S., Teodorescu, R., Ramnath, R., 2019. Accident risk prediction based on heterogeneous sparse data: New dataset and insights. In: Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, pp. 33–42.
+Nagel, K., Rickert, M., 2001. Parallel implementation of the TRANSIMS micro-simulation. Parallel Comput. 27 (12), 1611–1639.
+Najjar, A., Kaneko, S., Miyanaga, Y., 2017. Combining satellite imagery and open data to map road safety. In: Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence, pp. 4524–4530.
+Newell, G.F., 1989. Theory of highway traffic signals. ITS Rep. 1989 (07).
+Nguyen, T., Armitage, G., 2008. A survey of techniques for internet traffic classification using machine learning. IEEE Commun. Surv. Tutor. 10 (4), 56–76.
+Nguyen, H., Kieu, L.-M., Wen, T., Cai, C., 2018. Deep learning methods in transportation domain: a review. IET Intell. Transp. Syst. 12 (9), 998–1004.
+Pasidis, I., 2019. Congestion by accident? A two-way relationship for highways in England. J. Transp. Geogr. 76, 301–314.
+Polson, N.G., Sokolov, V.O., 2017. Deep learning for short-term traffic flow prediction. Transp. Res. C 79, 1–17.
+Rahman, R., Hasan, S., 2020. Real-time signal queue length prediction using long short-term memory neural network. Neural Comput. Appl. 1–14.
+Raissi, M., Perdikaris, P., Karniadakis, G.E., 2017a. Physics informed deep learning (part i): Data-driven solutions of nonlinear partial differential equations. arXiv preprint arXiv:1711.10561.
+Raissi, M., Perdikaris, P., Karniadakis, G.E., 2017b. Physics informed deep learning (Part II): Data-driven discovery of nonlinear partial differential equations.
+Ramezani, M., Haddad, J., Geroliminis, N., 2015. Dynamics of heterogeneity in urban networks: aggregated traffic modeling and hierarchical control. Transp. Res. B 74, 1–19.
+Ranjan, N., Bhandari, S., Zhao, H.P., Kim, H., Khan, P., 2020. City-wide traffic congestion prediction based on CNN, LSTM and transpose CNN. IEEE Access 8, 81606–81620.
+Rashmi, C., Shantala, C., 2020. Vehicle density analysis and classification using YOLOv3 for smart cities. In: 2020 4th International Conference on Electronics, Communication and Aerospace Technology. ICECA, IEEE, pp. 980–986.
+Redmon, J., Divvala, S., Girshick, R., Farhadi, A., 2016. You only look once: Unified, real-time object detection. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 779–788.
+Ren, H., Song, Y., Wang, J., Hu, Y., Lei, J., 2018. A deep learning approach to the citywide traffic accident risk prediction. In: 2018 21st International Conference on Intelligent Transportation Systems, ITSC, pp. 3346–3351.
+Retallack, A.E., Ostendorf, B., 2019. Current understanding of the effects of congestion on traffic accidents. Int. J. Environ. Res. Public Health 16 (18), 3400.
+Rinne, H., 2008. The Weibull Distribution: A Handbook. CRC Press.
+Rummery, G.A., Niranjan, M., 1994. On-Line Q-Learning using Connectionist Systems, Vol. 37. Citeseer.
+Schmidhuber, J., 2015. Deep learning in neural networks: An overview. Neural Netw. 61, 85–117.
+Schrank, D., Lomax, T., Eisele, B., 2012. 2012 Urban Mobility Report. Texas Transportation Institute, [Online]. Available: http://mobility.tamu.edu/ums/report. Shabestray, S.M.A., Abdulhai, B., 2019. Multimodal intelligent deep (MiND) traffic signal controller. In: 2019 IEEE Intelligent Transportation Systems Conference. ITSC, IEEE, pp. 4532–4539.
+Shi, R., Mo, Z., Di, X., 2021a. Physicsinformed deep learning for traffic state estimation: A hybrid paradigm informed by second-order traffic models. In: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 35 (1), pp. 540–547.
+Shi, R., Mo, Z., Huang, K., Di, X., Du, Q., 2021b. Physics-informed deep learning for traffic state estimation. arXiv preprint arXiv:2101.06580.
+Shin, D.-H., Chung, K., Park, R.C., 2020. Prediction of traffic congestion based on LSTM through correction of missing temporal and spatial data. IEEE Access 8, 150784–150796.
+Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., Hubert, T., Baker, L., Lai, M., Bolton, A., et al., 2017. Mastering the game of go without human knowledge. Nature 550 (7676), 354–359.
+Simonyan, K., Zisserman, A., 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556.
+Smith, L., Beckman, R., Baggerly, K., 1995. TRANSIMS: Transportation Analysis and Simulation System. Technical Report, Los Alamos National Lab., NM (United
+States).
+Snyder, C., Do, M., 2019. STREETS: A novel camera network dataset for traffic flow. In: Wallach, H., Larochelle, H., Beygelzimer, A., d’ Alché-Buc, F., Fox, E., Garnett, R. (Eds.), Advances in Neural Information Processing Systems 32. Curran Associates, Inc., pp. 10242–10253.
+Sokolova, M., Lapalme, G., 2009. A systematic analysis of performance measures for classification tasks. Inf. Process. Manage. 45 (4), 427–437.
+García de Soto, B., Bumbacher, A., Deublein, M., Adey, B.T., 2018. Predicting road traffic accidents using artificial neural network models. Infrastruct. Asset Manag. 5 (4), 132–144.
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., Salakhutdinov, R., 2014. Dropout: a simple way to prevent neural networks from overfitting. J. Mach.
+Learn. Res. 15 (1), 1929–1958.
+Stopher, P.R., 2004. Reducing road congestion: a reality check. Transp. Policy 11 (2), 117–131.
+Sun, S., Chen, J., Sun, J., 2019. Traffic congestion prediction based on GPS trajectory data. Int. J. Distrib. Sens. Netw. 15 (5), 1550147719847440.
+Sun, F., Dubey, A., White, J., 2017. Dxnat—deep neural networks for explaining non-recurring traffic congestion. In: 2017 IEEE International Conference on Big Data. Big Data, IEEE, pp. 2141–2150.
+Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., Rabinovich, A., 2015. Going deeper with convolutions. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1–9.
+Szepesvári, C., 2010. Algorithms for reinforcement learning. Synth. Lect. Artif. Intell. Mach. Learn. 4 (1), Abstract section.
+Tadikamalla, P.R., 1980. A look at the burr and related distributions. Int. Stat. Rev./Rev. Int. Stat. 337–344.
+Tan, C., Sun, F., Kong, T., Zhang, W., Yang, C., Liu, C., 2018. A survey on deep transfer learning. In: International Conference on Artificial Neural Networks. Springer, pp. 270–279.
+Tang, F., Mao, B., Fadlullah, Z.M., Kato, N., Akashi, O., Inoue, T., Mizutani, K., 2017. On removing routing protocol from future wireless networks: A real-time deep learning approach for intelligent traffic control. IEEE Wirel. Commun. 25 (1), 154–160.
+Tian, Y., Zhang, K., Li, J., Lin, X., Yang, B., 2018. LSTM-based traffic flow prediction with missing data. Neurocomputing 318, 297–305.
+Tillema, T., Ben-Elia, E., Ettema, D., van Delden, J., 2013. Charging versus rewarding: A comparison of road-pricing and rewarding peak avoidance in the Netherlands. Transp. Policy 26, 4–14.
+Treiterer, J., 1975. Investigation of Traffic Dynamics by Aerial Photogrammetry Techniques. Technical Report.
+van Wageningen-Kessels, F., Van Lint, H., Vuik, K., Hoogendoorn, S., 2015. Genealogy of traffic flow models. EURO J. Transp. Logist. 4 (4), 445–473.
+Wang, S., Cao, J., Yu, P., 2020a. Deep learning for spatio-temporal data mining: A survey. IEEE Trans. Knowl. Data Eng..
+Wang, Z., Chen, J., Hoi, S.C., 2020b. Deep learning for image super-resolution: A survey. IEEE Trans. Pattern Anal. Mach. Intell..
+Wang, J., Gu, Q., Wu, J., Liu, G., Xiong, Z., 2016. Traffic speed prediction and congestion source exploration: A deep learning method. In: 2016 IEEE 16th International Conference on Data Mining. ICDM, IEEE, pp. 499–508.
+Wang, R., Kashinath, K., Mustafa, M., Albert, A., Yu, R., 2020. Towards physics-informed deep learning for turbulent flow prediction. In: Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 1457–1466.
+Wang, P., Li, L., Jin, Y., Wang, G., 2018. Detection of unwanted traffic congestion based on existing surveillance system using in freeway via a CNN-architecture trafficnet. In: 2018 13th IEEE Conference on Industrial Electronics and Applications, ICIEA, pp. 1134–1139.
+Wang, C., Quddus, M.A., Ison, S.G., 2013. The effect of traffic and road characteristics on road safety: A review and future research direction. Saf. Sci. 57, 264–275.
+Wang, Q., Wan, J., Yuan, Y., 2018. Locality constraint distance metric learning for traffic congestion detection. Pattern Recognit. 75, 272–281.
+Wang, Y., Zhang, D., Liu, Y., Dai, B., Lee, L.H., 2019. Enhancing transportation systems via deep learning: A survey. Transp. Res. C 99, 144–163.
+Watkins, C.J.C.H., 1989. Learning from Delayed Rewards. King’s College, Cambridge.
+Weisbrod, G., Vary, D., Treyz, G., 2001. Economic Implications of Congestion. Project A2-21 FY’97.
+Wu, Y.-W., Hsu, T.-P., 2021. Mid-term prediction of at-fault crash driver frequency using fusion deep learning with city-level traffic violation data. Accid. Anal. Prev. 150, 105910.
+Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., Yu, P.S., 2020. A comprehensive survey on graph neural networks. IEEE Trans. Neural Netw. Learn. Syst. 1–21.
+Wu, Y., Tan, H., Qin, L., Ran, B., 2020a. Differential variable speed limits control for freeway recurrent bottlenecks via deep actor-critic algorithm. Transp. Res. C 117, 102649.
+Wu, T., Zhou, P., Liu, K., Yuan, Y., Wang, X., Huang, H., Wu, D.O., 2020b. Multi-agent deep reinforcement learning for urban traffic light control in vehicular networks. IEEE Trans. Veh. Technol..
+Wujek, B., Hall, P., Güneş, F., 2016. Best Practices for Machine Learning Applications. SAS Institute Inc.
+Xie, P., Li, T., Liu, J., Du, S., Yang, X., Zhang, J., 2020. Urban flow prediction from spatiotemporal data using machine learning: A survey. Inf. Fusion 59, 1–12.
+Xingjian, S., Chen, Z., Wang, H., Yeung, D.-Y., Wong, W.-K., Woo, W.-c., 2015. Convolutional LSTM network: A machine learning approach for precipitation nowcasting. In: Advances in Neural Information Processing Systems. pp. 802–810.
+Yen, C.-C., Ghosal, D., Zhang, M., Chuah, C.-N., 2020. A deep on-policy learning agent for traffic signal control of multiple intersections. In: 2020 IEEE 23rd International Conference on Intelligent Transportation Systems. ITSC, IEEE, pp. 1–6.
+Yoshimura, S., 2006. MATES: Multi-agent based traffic and environment simulator-theory, implementation and practical application. Comput. Model. Eng. Sci. 11 (1), 17–25.
+Yu, R., Li, Y., Shahabi, C., Demiryurek, U., Liu, Y., 2017. Deep learning: A generic approach for extreme condition traffic forecasting. In: Proceedings of the 2017 SIAM International Conference on Data Mining. SIAM, pp. 777–785.
+Yu, Y., Wang, T., Liew, S.C., 2019. Deep-reinforcement learning multiple access for heterogeneous wireless networks. IEEE J. Sel. Areas Commun. 37 (6), 1277–1290.
+Yuan, Z., Zhou, X., Yang, T., 2018. Hetero-convlstm: A deep learning approach to traffic accident prediction on heterogeneous spatio-temporal data. In: Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 984–992.
+Zeng, J., Hu, J., Zhang, Y., 2018. Adaptive traffic signal control with deep recurrent Q-learning. In: 2018 IEEE Intelligent Vehicles Symposium (IV). IEEE, pp. 1215–1220.
+Zhang, J., Junhua, W., Shou’en, F., 2019a. Prediction of urban expressway total traffic accident duration based on multiple linear regression and artificial neural network. In: 2019 5th International Conference on Transportation Information and Safety. ICTIS, IEEE, pp. 503–510.
+Zhang, C., Patras, P., Haddadi, H., 2019b. Deep learning in mobile and wireless networking: A survey. IEEE Commun. Surv. Tutor. 21 (3), 2224–2287.
+Zhao, H., Mao, T., Yu, H., Zhang, M.K., Zhu, H., 2018. A driving risk prediction algorithm based on PCA-BP neural network in vehicular communication. In: 2018 10th International Conference on Intelligent Human-Machine Systems and Cybernetics. Vol. 2. IHMSC, IEEE, pp. 164–169.
+Zhou, Z., Chen, L., Zhu, C., Wang, P., 2019. Stack ResNet for short-term accident risk prediction leveraging cross-domain data. In: 2019 Chinese Automation Congress. CAC, IEEE, pp. 782–787.
+
