@@ -21,7 +21,9 @@ def extract_references_from_pdf(pdf_file, page_number_range):
             break
 
 
-def extract_venues_from_text_file(text_file_references, year_start, year_end, outputfilename="output.csv", debug_=True):
+def extract_venues_from_text_file(
+    text_file_references, year_start, year_end, outputfilename="output.csv", debug_=False
+):
     """
 
     :param text_file_references:
@@ -32,18 +34,25 @@ def extract_venues_from_text_file(text_file_references, year_start, year_end, ou
     :return:
     """
     journal_list = []
+    ref_count = 0
     with open(text_file_references) as f:
         for row in f:
-            if "In:" in row or "In " in row:
+            ref_count += 1
+
+            if "In:" in row:  # or" In " in row:
                 # special (but straightforward) case of handling "In:"
-                journal_list.append(row.strip().split("In")[1])
+                journal_list.append((row.strip().split("In:")[1]).strip())
 
             else:
                 for year in [str(x) for x in range(year_start, year_end)]:
                     if year in row[:-8]:  # so that we don't read page numbers as years
                         wordlist = row.strip().split(year)[1].split(".")[2:]
-                        journal_list.append(" ".join(wordlist))
+                        journal_list.append((" ".join(wordlist)).strip())
                         break
+
+            # discard empty strings
+            if journal_list[-1] == "":
+                journal_list = journal_list[:-1]
 
             if debug_:
                 sprint(row)
@@ -61,8 +70,10 @@ def extract_venues_from_text_file(text_file_references, year_start, year_end, ou
         for journal in journal_list:
             csvwriter.writerow([journal])
 
+    print("\n\n", round(len(journal_list) / ref_count * 100, 2), "% references captured successfully")
+
 
 if __name__ == "__main__":
     extract_venues_from_text_file(
-        "sample_data/references.txt", year_start=1975, year_end=2022, outputfilename="output.csv", debug_=True
+        "sample_data/references.txt", year_start=1975, year_end=2022, outputfilename="output.csv"
     )
