@@ -42,7 +42,8 @@ def extract_venues_from_text_file(
             if "In:" in row:  # or" In " in row:
                 # special (but straightforward) case of handling "In:"
                 journal_list.append((row.strip().split("In:")[1]).strip())
-
+            elif ". In " in row:
+                journal_list.append((row.strip().split(". In ")[1]).strip())
             else:
                 for year in [str(x) for x in range(year_start, year_end)]:
                     if year in row[:-8]:  # so that we don't read page numbers as years
@@ -53,6 +54,7 @@ def extract_venues_from_text_file(
             # discard empty strings
             if journal_list[-1] == "":
                 journal_list = journal_list[:-1]
+                continue
 
             if debug_:
                 sprint(row)
